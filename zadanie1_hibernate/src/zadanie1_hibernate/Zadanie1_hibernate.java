@@ -3,12 +3,20 @@ package zadanie1_hibernate;
 
 import pojos.Pracownicy;
 import service.EmployeeService;
+import serviceImpl.EmployeeServiceImpl;
 
 
 public class Zadanie1_hibernate {
 
    
     public static void main(String[] args) {
+        
+        EmployeeService employeeService = new EmployeeServiceImpl();
+      
+      //createEmployee(employeeService);
+      // getEmployeebyId(employeeService);
+      //deleteEmployeeById(employeeService);
+      // updateEmployeeById(employeeService);
         
     }
     
