@@ -45,5 +45,6 @@ Contributor(s):
     <property name="hibernate.connection.url">jdbc:sqlserver://laptop-442e11cb\sqlexpress:1433;databaseName=company</property>
     <property name="hibernate.connection.username">adam</property>
     <property name="hibernate.connection.password">adam</property>
+    <mapping resource="pojos/Pracownicy.hbm.xml"/>
   </session-factory>
 </hibernate-configuration>
