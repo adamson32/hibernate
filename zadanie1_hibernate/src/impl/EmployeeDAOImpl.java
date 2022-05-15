@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package zadanie1_hibernate;
+package impl;
 
 /**
  *
  * @author Adam
  */
-public class Zadanie1_hibernate {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-    }
+public class EmployeeDAOImpl {
     
 }
